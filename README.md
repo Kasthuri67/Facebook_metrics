@@ -3,6 +3,7 @@
 The project has done under Udacity Bertelsmann Data Science Challenge Coursework
 
 Overview:
+
 What question is our data answering?
 - What should be the preferred mode [Pictures, Videos, Links, and Status] of the advertisement to gain popularity in Facebook for a Brand?
 - Paid or Free advertisement, which results in more popularity in Facebook?
